@@ -12,7 +12,7 @@ public class IOSSDK {
     
     public static func getVersion() -> String {
         
-        return "iOS framework version - 1.0.0"
+        return "iOS framework version - 2.0.0"
     }
     
     
