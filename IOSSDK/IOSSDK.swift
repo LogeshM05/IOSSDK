@@ -7,14 +7,13 @@
 
 import Foundation
 
-public class IOSSDK {
+@objc public class IOSSDK : NSObject {
     
-    
-    public static func getVersion() -> String {
+    @objc
+    public class func getVersion() -> String {
         
         return "iOS framework version - 2.0.0"
     }
-    
     
     
 }
