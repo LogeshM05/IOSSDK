@@ -12,7 +12,7 @@ import Foundation
     @objc
     public class func getVersion() -> String {
         
-        return "iOS framework version - 8.0.0"
+        return "iOS framework version - 9.0.0"
     }
     
     
